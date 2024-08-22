@@ -32,10 +32,10 @@ Use `'Datatset_Image_Encoding.py'` file:
 
 ## Download the SWIT-Dataset
 * It will be appeared soon
+* `IMU_Sensor_Raw.zip' is compressed file containing raw data of time series dataset containing IMU experiment data for a total of 27 subjects across 10 different tasks (Task 1 to Task 10).
+* The dataset includes x, y, and z axis readings from accelerometers, gyroscopes, and magnetometers, all recorded at a frequency of 100 Hz.
+* `Keypoints_Raw.zip' is compressed file containing keypoint estimation data.
+* `keypoints_(200).zip' is compressed file containg segmented into 2-second intervals, synchronized with the IMU.
 
 ## Citation
 * It will be appeared soon
-* `IMU_Sensor_Raw.zip' is compressed file containing raw data of time series dataset containing IMU experiment data for a total of 27 subjects across 10 different tasks (Task 1 to Task 10).
-** The dataset includes x, y, and z axis readings from accelerometers, gyroscopes, and magnetometers, all recorded at a frequency of 100 Hz.
-* `Keypoints_Raw.zip' is compressed file containing keypoint estimation data.
-* `keypoints_(200).zip' is compressed file containg segmented into 2-second intervals, synchronized with the IMU.

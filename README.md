@@ -20,5 +20,17 @@ Scaffolding Worker IMU Time-series (SWIT) Dataset for Deep Learning-based Constr
 * Data synchronization: Time synchronization between IMU sensor data and video data
 * Pose estimation: 17 keypoints extracted from video using YOLOv7-pose
 ![Experimental Setup](https://github.com/user-attachments/assets/bced9bc7-c47d-496d-8d36-516e1215c9c1)
+
+## Pre-proccesing dataset for encoding (6 x 200 x 200)
+Use `'Datatset_Image_Encoding'` file: 
+* Collected data from 6 channels of the IMU sensor: acceleration (x, y, z) and angular velocity (x, y, z)
+* Defined 200 data points over 2 seconds as one behavior data instance
+* Applied a sliding window with 0.1-second (10 data points) intervals to extract data
+* Used Gramian Angular Difference Field (GAF) to transform time-series data into images
+* Encoded each of the 6 channels into images and stacked them. Finally, generated data with dimensions of 6 x 200 x 200
+
 ## Download the SWIT-Dataset
+* It will be appeared soon
+
+## Citation
 * It will be appeared soon

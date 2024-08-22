@@ -14,7 +14,7 @@ Scaffolding Worker IMU Time-series (SWIT) Dataset for Deep Learning-based Constr
 
 ## Experimental Setup for dataset acquisition
 * Participants: 27 construction engineering expert
-* IMU Sensor: EBIMU24GV5 wireless IMU sensor, 100Hz sampling rate
+* IMU (Inertial Measurement Unit) Sensor: EBIMU24GV5 wireless IMU sensor, 100Hz sampling rate
 * Sensor placement: Attached to the lower back of participants
 * Camera: GoPro Hero 12 black, recording at 25 FPS
 * Data collection method: Each participant repeated 10 behaviors 10 times each
@@ -35,3 +35,7 @@ Use `'Datatset_Image_Encoding.py'` file:
 
 ## Citation
 * It will be appeared soon
+* `IMU_Sensor_Raw.zip' is compressed file containing raw data of time series dataset containing IMU experiment data for a total of 27 subjects across 10 different tasks (Task 1 to Task 10).
+** The dataset includes x, y, and z axis readings from accelerometers, gyroscopes, and magnetometers, all recorded at a frequency of 100 Hz.
+* `Keypoints_Raw.zip' is compressed file containing keypoint estimation data.
+* `keypoints_(200).zip' is compressed file containg segmented into 2-second intervals, synchronized with the IMU.

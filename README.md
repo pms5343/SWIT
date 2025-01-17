@@ -1,7 +1,7 @@
 # SWIT-Dataset
 
 # Download the dataset
-[LINK(google drive)](https://drive.google.com/file/d/19T3IuBKPPguXkjQZBP2fir3o3uKS_Pfz/view?usp=drive_link)to the dataset
+[LINK (google drive)](https://drive.google.com/file/d/19T3IuBKPPguXkjQZBP2fir3o3uKS_Pfz/view?usp=drive_link) to the dataset
 
 ## Introduction
 

@@ -43,3 +43,4 @@ Use `'Datatset_Image_Encoding.py'` file:
 
 ## Citation
 * It will be appeared soon
+[(https://doi.org/10.1016/j.aei.2025.103232)](https://doi.org/10.1016/j.aei.2025.103232)

@@ -42,8 +42,7 @@ Use `'Datatset_Image_Encoding.py'` file:
 * `keypoints_(200).zip' is compressed file containg segmented into 2-second intervals, synchronized with the IMU.
 
 ## Citation
-* It will be appeared soon
-[(https://doi.org/10.1016/j.aei.2025.103232)](https://doi.org/10.1016/j.aei.2025.103232)
+* [(https://doi.org/10.1016/j.aei.2025.103232)](https://doi.org/10.1016/j.aei.2025.103232)
 ```bibtex
 @article{park2025scaffolding,
   title={Scaffolding worker IMU time-series dataset for deep learning-based construction site behavior recognition},

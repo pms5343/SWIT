@@ -1,6 +1,6 @@
 # SWIT-Dataset
 Scaffolding Worker IMU time-series dataset for deep learning-based construction-site behavior recognition
-Minsoo Park*, Seongwoo Son, Yuntae Jeon, Dongyoung Ko, Mingeon Cho, Seunghee Park*, Advanced Engineering Informatics
+// Minsoo Park*, Seongwoo Son, Yuntae Jeon, Dongyoung Ko, Mingeon Cho, Seunghee Park*, Advanced Engineering Informatics
 Vol. 65 Part B, No. 103232, pp. 1–17, March 2025, DOI: https://doi.org/10.1016/j.aei.2025.103232 
 # Download the dataset
 [LINK (google drive)](https://drive.google.com/file/d/19T3IuBKPPguXkjQZBP2fir3o3uKS_Pfz/view?usp=drive_link) to the dataset
